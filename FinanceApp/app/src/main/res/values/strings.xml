@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Finance App</string>
+    <string name="gelir">Gelir</string>
+    <string name="gider">Gider</string>
+    <string name="ekle">Ekle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toplam_gelir">Toplam Gelir</string>
+    <string name="toplam_gider">Toplam Gider</string>
+
+</resources>
